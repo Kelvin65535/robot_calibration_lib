@@ -1,0 +1,1 @@
+cmd='/Users/kelvin/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/CLion.app/Contents/bin/cmake/mac/bin/cmake;-DCMAKE_INSTALL_PREFIX:PATH=/Users/kelvin/CLionProjects/robot-calibration-lib/cmake-build-debug-macos-xcode/third-party/googletest-1.8.0;-DBUILD_SHARED_LIBS=OFF;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
