@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This library include some useful function and algorithm in computer vision and robotics, such as camera calibration, hand-eye registration, etc.
+This library includes some useful functions and algorithms in computer vision and robotics, such as camera calibration, hand-eye registration, etc.
 
 ## Build and install
 
